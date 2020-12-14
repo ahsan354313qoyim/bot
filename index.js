@@ -13,10 +13,10 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'Ahsan 1.0'; 
+const BotName = 'Ahsan Adinul'; 
 const instagram = 'https://instagram.com/muh_ahsan1999'; 
 const whatsapp = 'wa.me/6285157566434'; 
-const kapanbotaktif = '???'; 
+const kapanbotaktif = 'ONLINE'; 
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
