@@ -124,115 +124,13 @@ else if (text == 'asalamualaikum'){
 conn.sendMessage(id, 'Waalaikumsalam, Ketik .help/.info/.donasi/.menu Contoh .help' ,MessageType.text);
 }
 else if (text == 'Assalamualaikum'){
-conn.sendMessage(id, 'Waalaikumsalam, Ketik .help/.info/.donasi/.menu Contoh .help' ,MessageType.text);
+conn.sendMessage(id, 'Waalaikumsalam, Ketik .menu ' ,MessageType.text);
 }
 else if (text == 'p'){
-conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi/.menu Contoh .help' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, Ketik .menu ' ,MessageType.text);
 }
 else if (text == 'P'){
-conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi/.menu Contoh .help' ,MessageType.text);
-}
-else if (text == 'Halo'){
-conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi/.menu Contoh .help' ,MessageType.text);
-}
-else if (text == 'Asu'){
-conn.sendMessage(id, 'Lu Astagfirulloh' ,MessageType.text);
-}
-else if (text == '.owner'){
-conn.sendMessage(id, 'Owner XP-TN wa.me/+6285157566434' ,MessageType.text);
-}
-else if (text == 'Ahsan'){
-conn.sendMessage(id, 'Aku BOT nya Ahsan Adinul' ,MessageType.text);
-}
-else if (text == 'bangsat'){
-conn.sendMessage(id, 'toxic terdeteksi' ,MessageType.text);
-}
-else if (text == 'Ngentod'){
-conn.sendMessage(id, 'Pengin ngentod?' ,MessageType.text);
-}
-else if (text == 'Anjing'){
-conn.sendMessage(id, 'Jangan toxic anjing' ,MessageType.text);
-}
-else if (text == 'Bacot'){
-conn.sendMessage(id, 'lu bacot_-' ,MessageType.text);
-}
-else if (text == 'Test'){
-conn.sendMessage(id, 'Test 1,2,3 ketik .menu' ,MessageType.text);
-}
-else if (text == 'Hai'){
-conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi/.menu Contoh .help' ,MessageType.text);
-}
-else if (text == '.ttp'){
-conn.sendMessage(id, ' *COMMAND PREMIUM CHAT WA https://wa.me/6285157566434 ' ,MessageType.text);
-}
-else if (text == 'Woi'){
-conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi/.menu Contoh .help' ,MessageType.text);
-}
-else if (text == 'Eoy'){
-conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi/.menu Contoh .help' ,MessageType.text);
-}
-else if (text == 'Hi'){
-conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi/.menu Contoh .help' ,MessageType.text);
-}
-else if (text == 'Gan'){
-conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi/.menu Contoh .help' ,MessageType.text);
-}
-else if (text == 'Sis'){
-conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi/.menu Contoh .help' ,MessageType.text);
-}
-else if (text == 'Bro'){
-conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi/.menu Contoh .help' ,MessageType.text);
-}
-else if (text == 'Min'){
-conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi/.menu Contoh .help' ,MessageType.text);
-}
-else if (text == 'Sayang'){
-conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi/.menu Contoh .help' ,MessageType.text);
-}
-else if (text == 'I love u'){
-conn.sendMessage(id, 'love you too' ,MessageType.text);
-}
-else if (text == 'Mas'){
-conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi/.menu Contoh .help' ,MessageType.text);
-}
-else if (text == 'Mba'){
-conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi/.menu Contoh .help' ,MessageType.text);
-}
-else if (text == 'Bre'){
-conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi/.menu Contoh .help' ,MessageType.text);
-}
-else if (text == 'Cuy'){
-conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi/.menu Contoh .help' ,MessageType.text);
-}
-else if (text == '.coowner'){
-conn.sendMessage(id, 'kawan2 testing script wa.me/+628587566434' ,MessageType.text);
-}
-else if (text == 'Euy'){
-conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
-}
-else if (text == 'makasi'){
-conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.text);
-}
-else if (text == 'Makasi'){
-conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.text);
-}
-else if (text == 'makasih'){
-conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.text);
-}
-else if (text == 'Makasih'){
-conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.text);
-}
-else if (text == 'thank'){
-conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.text);
-}
-else if (text == 'Thank'){
-conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.text);
-}
-else if (text == 'thanks'){
-conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.text);
-}
-else if (text == 'Thanks'){
-conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, Ketik .menu ' ,MessageType.text);
 }
 
 // Fitur
